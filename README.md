@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammad-hamza66/muhammad-hamza66/main/gif.gif" alt="Developer Banner" width="600"/>
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Hamza;Full-Stack+MERN+Developer;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+Tailwind;Building+Modern+Web+Applications" alt="Typing SVG" />
 </h1>
